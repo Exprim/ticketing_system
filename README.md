@@ -6,9 +6,9 @@ This program is developed for experimental purposes only, by a hobbyist. Using t
 
 ## Table Of Contents
 	
-	###### 1. Program Summary
-	###### 2. How do I deploy the software?
-	###### 3. Licenses
+###### 1. Program Summary
+###### 2. How do I deploy the software?
+###### 3. Licenses
 
 ## 1. Program Summary (How does it work?)
 
